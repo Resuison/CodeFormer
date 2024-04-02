@@ -3,6 +3,7 @@
 </p>
 
 ## Towards Robust Blind Face Restoration with Codebook Lookup Transformer (NeurIPS 2022)
+自建更强大的 AI照片、视频修复工具，依靠自身系统硬件，速度快，功能多效果好，可玩性高！**不仅修复照片，也可以（高清修复视频）！**
 
 [Paper](https://arxiv.org/abs/2206.11253) | [Project Page](https://shangchenzhou.com/projects/CodeFormer/) | [Video](https://youtu.be/d3VDpkXlueI)
 
